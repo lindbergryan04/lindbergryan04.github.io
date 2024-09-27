@@ -847,7 +847,7 @@ a:hover {
   color: #fff;
   text-transform: uppercase;
   font-weight: 600;
-  margin: 1rem 0;
+  margin: 0rem 0;
   display: block;
   font-size: 1.4rem;
 }
@@ -863,6 +863,17 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
 }
+
+.profession {
+    display: block;
+    font-size: 14px;
+    color: #whitesmoke;
+    margin-top: 2px; 
+    margin-bottom: 10px; 
+    line-height: 1.2; 
+}
+
+
 
 /*======================================
 //--//-->   BLOG
