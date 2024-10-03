@@ -281,7 +281,7 @@ a:hover {
   width: 18px;
   height: 7px;
   margin: 5px 5px;
-  background: #cde1f8;
+  background: #1B1B1B;
   border: 0px solid #cde1f8;
   display: block;
   transition: all 0.6s ease-in-out;
@@ -293,7 +293,7 @@ a:hover {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-  background-color: #1B1B1B;
+  background-color: #cde1f8;
   width: 25px;
 }
 
@@ -826,6 +826,10 @@ a:hover {
 //--//-->   TESTIMONIALS
 ======================================*/
 
+.testimonials {
+  padding: 50px 0; /* Reduce padding at the top and bottom of the section */
+}
+
 .testimonials .owl-carousel .owl-item img {
   width: auto;
 }
@@ -872,6 +876,8 @@ a:hover {
     margin-bottom: 10px; 
     line-height: 1.2; 
 }
+
+
 
 
 
